@@ -10,5 +10,7 @@ public class FirstClass {
 
     public void hear(){
         System.out.println(66666);
+        System.out.println("有问题");
     }
+
 }
